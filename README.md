@@ -1,4 +1,4 @@
-# 🧮 TippiLaskin
+# 👥 ContactForm
 
 **Version 1.0.0**
 
@@ -7,7 +7,7 @@
 
 ---
 
-✖️ Tip calculator
+👤 Simple contact form page
 
 ---
 
